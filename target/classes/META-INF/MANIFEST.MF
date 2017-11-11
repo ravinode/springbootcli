@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootCLI
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kira
+Implementation-Vendor-Id: com.ravi.springbootcli
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootCL
+ I/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
